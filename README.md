@@ -1,35 +1,30 @@
-<h1 align="center">Hi 👋, I'm Gelen</h1>
-<h3 align="center">A passionate full stack developer from Dominican Republic</h3>
-
-
-- 🔭 I’m currently working on **Hogwarts project**
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
-
-###
+<h1 align="center">Hi 👋, I'm Gelen Calderon</h1>
+<h3 align="center">🎮 Game Dev Enthusiast | 🐍 Data Analysis | 💻 Web Development</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CozyBadgerJS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CozyBadgerJS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" alt="Gelen coding" width="400"/>
 </div>
 
+---
 
-###
+### 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- 
-</div>
+- 🔭 Currently building **a Domino game** and **Flappy Bird clone** using Pygame  
+- 🌱 Learning about **object-oriented programming, game loops, and API integrations**  
+- 💡 Always down to build cool tools that blend **code, creativity, and learning**  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🎯 Goals for 2025
+
+- ✅ Build 5+ small games using Pygame
+- ✅ Launch a personal website/portfolio
+- 📚 Master object-oriented programming in Python
+- 🌍 Collaborate on open-source projects
+
+---
+
+### 🛠️ Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -46,15 +41,41 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+---
 
-###
+### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CozyBadgerJS&show_icons=true&theme=tokyonight" alt="CozyBadgerJS stats" />
+</p>
 
-###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozybadgerjs&show_icons=true&locale=en&layout=compact" alt="cozybadgerjs" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CozyBadgerJS&theme=tokyonight" alt="GitHub streak" />
+</p>
 
+---
+
+### 🌟 Featured Projects
+
+- 🕹️ **Flappy Bird Clone** – Pygame remake with smooth animations and collision  
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/) (drop your link)
+- 🌐 Personal Website (coming soon!)
+
+
+
+<div align="left">
+
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ 
+</div>
+
+Thanks for stopping by! ⭐ If you like any of my work, feel free to follow or star a repo!
+
+---
