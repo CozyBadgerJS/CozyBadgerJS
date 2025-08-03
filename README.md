@@ -68,15 +68,3 @@ Thanks for stopping by! ⭐ If you like any of my work, feel free to follow or s
 
 ---
 
-
-<script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'CozyBadgerJS',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
-</script>
