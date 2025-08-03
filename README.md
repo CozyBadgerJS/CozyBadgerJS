@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gelen Calderon</h1>
-<h3 align="center">🎮 Game Dev Enthusiast | 🐍 Data Analysis | 💻 Web Development</h3>
+<h3 align="center">💻 Web Development</h3>
 
 <div align="center">
   <img src="https://thumbs.dreamstime.com/b/illustration-lonely-solitude-girl-studying-coding-laptop-window-night-city-view-young-woman-learning-337873021.jpg" alt="Gelen coding" width="400"/>
@@ -9,18 +9,19 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **a Domino game** and **Flappy Bird clone** using Pygame  
-- 🌱 Learning about **object-oriented programming, game loops, and API integrations**  
-- 💡 Always down to build cool tools that blend **code, creativity, and learning**  
+🏰 Currently creating a Hogwarts-themed web page to practice HTML & CSS
+🌱 Learning front-end foundations: **HTML, CSS & JavaScript**
+💻 Exploring how code can express **personality, fun, and learning.**
 
 ---
 
 ## 🎯 Goals for 2025
 
-- ✅ Build 5+ small games using Pygame
-- ✅ Launch a personal website/portfolio
-- 📚 Master object-oriented programming in Python
-- 🌍 Collaborate on open-source projects
+- 🌱 Master the foundations of **HTML, CSS & JavaScript**
+- 🎨 Create 5+ fun and functional mini-projects to practice front-end skills
+- 🌐 Build my first personal portfolio website
+- 🧪 Experiment with simple animations and interactions using JavaScript
+- ✨ Keep having fun blending creativity with code 💛
 
 ---
 
