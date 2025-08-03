@@ -67,4 +67,4 @@
 Thanks for stopping by! ⭐ If you like any of my work, feel free to follow or star a repo!
 
 ---
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
