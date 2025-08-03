@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-🏰 Currently creating a Hogwarts-themed web page to practice HTML & CSS
-🌱 Learning front-end foundations: **HTML, CSS & JavaScript**
-💻 Exploring how code can express **personality, fun, and learning.**
+- 🏰 Currently creating a Hogwarts-themed web page to practice **HTML & CSS.**
+- 🌱 Learning front-end foundations: **HTML, CSS & JavaScript.**
+- 💻 Exploring how code can express **personality, fun, and learning.**
 
 ---
 
