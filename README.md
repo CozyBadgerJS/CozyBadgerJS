@@ -69,10 +69,14 @@ Thanks for stopping by! ⭐ If you like any of my work, feel free to follow or s
 ---
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CozyBadgerJS/CozyBadgerJS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CozyBadgerJS/CozyBadgerJS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CozyBadgerJS/CozyBadgerJS/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<script type="module">
+import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
+const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'CozyBadgerJS',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github'
+});
+pr.start();
+</script>
