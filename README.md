@@ -34,10 +34,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CozyBadgerJS&show_icons=true&theme=tokyonight" alt="CozyBadgerJS stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CozyBadgerJS&theme=tokyonight" alt="GitHub streak" />
 </p>
 
@@ -45,26 +41,19 @@
 
 ### 🌟 Featured Projects
 
-- 🕹️ **Flappy Bird Clone** – Pygame remake with smooth animations and collision  
+- 🔮 **Hogwarts Houses** – A  tribute to the wizarding world, built as a HTML and CSS practice project.
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/) (drop your link)
-- 🌐 Personal Website (coming soon!)
+- <div> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </div>
 
 
-
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- 
-</div>
+##
 
 Thanks for stopping by! ⭐ If you like any of my work, feel free to follow or star a repo!
 
----
+##
+
 ![snake gif](https://github.com/CozyBadgerJS/CozyBadgerJS/blob/output/github-snake-dark.svg)
