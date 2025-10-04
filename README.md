@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gelen Cueto
+<h1 align="center">Hi 👋, I'm CozyBadger
 <h3 align="center">💻 Web Development</h3>
 
 <div align="center">
